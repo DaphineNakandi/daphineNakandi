@@ -1,70 +1,95 @@
-# Hi, I'm Daphine Nakandi 👋
+<div align="center">
 
-**Software Developer | Python • AI Engineering • Frontend & Full-Stack Development**
+<img src="./assets/profile-header.svg" alt="Daphine Nakandi — Software Engineering and AI" width="100%">
 
-I'm interested in building technology that solves real problems and creates meaningful experiences.
+### Software Engineering · Python · Django · AI Applications
 
-I enjoy exploring different sides of software development — from thinking through how an application should work and feel to building the logic that powers it. I'm developing my skills through hands-on projects, continuous learning, and my Software Engineering and AI Engineering journey at Turing College.
+Building practical software, exploring ideas, and improving one project at a time.
 
-## About Me
+[GitHub](https://github.com/DaphineNakandi) · [LinkedIn](https://linkedin.com/in/daphine-nakandi-03b5a6241/)
 
-- Interested in the intersection of software development, AI, and user experience.
-- Enjoy turning ideas into practical applications.
-- Curious about how systems work, why they work, and how to make them better.
-- Focused on becoming a more independent developer through hands-on building and problem-solving.
+</div>
 
-## AI Engineering Journey
+---
 
-My work in AI Engineering has taken me from building LLM-powered applications to exploring agents, retrieval systems, and evaluation.
+## About
 
-### Interview Prep Coach
+I'm a software engineering learner focused on building useful applications and understanding how they work from the inside out. My current interests include backend development, AI-powered applications, and user-focused frontend experiences.
 
-An AI-powered interview preparation application built with Python and Streamlit, using the OpenAI SDK through OpenRouter.
+- Building applications with **Python and Django**
+- Developing REST APIs with **Django REST Framework**
+- Exploring **React** and frontend integration
+- Experimenting with **LLMs, LangChain, and retrieval-augmented generation**
+- Practising problem-solving, testing, and clean version control
 
-- Explored Zero-Shot, Few-Shot, and Chain-of-Thought prompting strategies.
-- Implemented custom security guardrails and input validation.
-- Added a RAG-lite approach to provide relevant context.
-- Built role-specific interview question generation and mock interview experiences.
+## Featured Projects
 
-**Technologies:** Python, Streamlit, OpenAI SDK, OpenRouter.
+<table>
+<tr>
+<td width="50%" valign="top">
 
-[Explore the project](https://github.com/DaphineNakandi/interview-prep-coach)
+### [Hardware System Management](https://github.com/DaphineNakandi/Hardware-System-Management)
 
-### LangChain Developer Assistant
+A Django application for managing hardware inventory, stock entries, suppliers, sales, and customer deposits. Includes REST API development and ongoing frontend integration.
 
-An AI-powered developer assistant built with LangChain, featuring an agent that can use three custom tools and a Retrieval-Augmented Generation (RAG) pipeline.
+Python · Django · DRF · REST API
 
-- Implemented tool calling so the agent can select and use custom tools.
-- Built a RAG pipeline with ChromaDB and OpenAI Embeddings.
-- Used vector retrieval to provide relevant context for responses.
-- Created an evaluation script using the RAGAs framework to assess the RAG system.
+</td>
+<td width="50%" valign="top">
 
-**Technologies:** Python, LangChain, Streamlit, ChromaDB, OpenAI Embeddings, RAGAs.
+### [AI Interview Prep Coach](https://github.com/DaphineNakandi/interview-prep-coach)
 
-[Explore the project](https://github.com/DaphineNakandi/langchain-dev-assistant)
+An AI-powered interview practice application with role-specific questions and mock interview experiences.
 
-## Other Projects
+Python · Streamlit · OpenAI SDK · OpenRouter
 
-- [AI-Powered Learning Companion](https://github.com/DaphineNakandi/interactive-learning-tool) — A Python learning application with AI-generated questions and answer evaluation.
-- [Hardware System Management](https://github.com/DaphineNakandi/Hardware-System-Management) — A stock and sales management application.
-- [D&D Combat](https://github.com/DaphineNakandi/dnd-combat) — A Python project exploring game logic and object-oriented programming.
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-## Technologies & Tools
+### [LangChain Developer Assistant](https://github.com/DaphineNakandi/langchain-dev-assistant)
 
-**Languages:** Python, HTML, CSS
+An AI developer assistant exploring tool use and retrieval-augmented generation with a vector database and evaluation workflow.
 
-**AI & LLMs:** LangChain, OpenAI SDK, OpenRouter, Prompt Engineering, RAG, RAGAs, OpenAI Embeddings
+LangChain · ChromaDB · RAG · RAGAS
 
-**Backend & Data:** Django, APIs, ChromaDB, Vector Databases
+</td>
+<td width="50%" valign="top">
 
-**Application Development:** Streamlit
+### [Interactive Learning Tool](https://github.com/DaphineNakandi/interactive-learning-tool)
 
-**Development Tools:** Git, GitHub, GitHub Codespaces, Ruff, `pyproject.toml`
+A Python learning application that uses AI to generate questions and evaluate answers.
 
-**Frontend:** Exploring frontend development and user-centred design.
+Python · LLM · JSON
 
-## What Drives Me
+</td>
+</tr>
+</table>
 
-I believe becoming a good developer is about more than knowing programming languages and frameworks. It's about understanding problems, asking better questions, learning from mistakes, and building solutions that are useful to people.
+### More projects
 
-I'm learning, experimenting, and building one project at a time.
+- [D&D Combat](https://github.com/DaphineNakandi/dnd-combat) — A Python project exploring object-oriented programming and game logic.
+- [Community Days — Automotive App](https://github.com/DaphineNakandi/communitydays_group_5) — A collaborative group project.
+
+## Tech Stack
+
+**Languages:** Python · HTML · CSS
+
+**Backend:** Django · Django REST Framework · REST APIs
+
+**Frontend:** React (currently learning)
+
+**AI & LLMs:** OpenAI SDK · OpenRouter · LangChain · Prompt Engineering · RAG
+
+**Data & Retrieval:** ChromaDB · Vector Databases · RAGAS
+
+**Tools:** Git · GitHub · VS Code · Streamlit
+
+---
+
+<div align="center">
+
+*Curious by nature. Practical by choice. Always learning.*
+
+</div>
